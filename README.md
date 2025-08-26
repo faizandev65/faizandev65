@@ -7,10 +7,10 @@
 - 🔭 I’m currently learning *Java (Core + Advanced)*  
 - 🌱 Exploring *DSA (Data Structures & Algorithms)*  
 - 💻 I already know *HTML & CSS*  
-- 🧑‍💻 Learning *JavaScript (still in progress)*  
+- 🧑‍💻 Learning *JavaScript (still in progress :D)*  
 - 👯 Interested in *Web Development & Open Source*  
-- 📚 Goal: *Become a Java Backend + Full-Stack Developer*  
-- ⚡ Fun fact: *I love late-night coding 🌙💻*  
+- 📚 Goal: *To become a FULL-STACK Web Developer & Master DSA*  
+- ⚡ Fun fact: *I debug faster at midnight than in the morning 🌙💻*  
 
 ---
 
@@ -20,7 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 ---
