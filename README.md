@@ -1,34 +1,34 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Md Faizan Mustafa</h1>
-<h3 align="center">🚀 Full-Stack Developer in Progress | MERN Stack | Java & DSA</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Java & DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;HTML+CSS+JavaScript+Completed;Currently+Learning+MERN+Stack;Java+%26+DSA+Problem+Solver;Building+Real+World+Projects;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student;HTML+CSS+JavaScript+Completed;Learning+MERN+Stack;Java+%26+DSA+Enthusiast;Building+Cool+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizandev65&label=Profile%20Views&color=00E5FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=faizandev65&label=Profile%20Views&color=36BCF7&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 ```txt
-💻 Code | ☕ Coffee | 🌙 Late-Night Debugging | 🚀 Growth Mindset
+💻 Code | ☕ Coffee | 🌙 Late-night Debugging | 🚀 Consistent Learning
 ```
 
 - ✅ Completed **HTML, CSS & JavaScript**
-- 🚀 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
-- ☕ Strong foundation in **Java (Core + Advanced)**
-- 📘 Daily practice of **DSA & Problem Solving**
-- 🌐 Passionate about **Web Development & Open Source**
-- 🎯 Goal: Become an **Industry-Ready Full-Stack Developer**
+- 📚 Currently learning **MERN Stack**
+- ☕ Strong foundation in **Java (Core concepts)**
+- 📘 Practicing **DSA & problem solving**
+- 🌐 Interested in **Web Development & Open Source**
+- 🎯 Goal: Become a **Skilled Full-Stack Developer**
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack (What I Know)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github&perline=6" />
 </p>
 
 ---
@@ -37,49 +37,30 @@
 
 ### 🛒 Amazon Clone (HTML + CSS)
 - 🔥 **Same-to-same Amazon UI clone**
-- 🧭 Fully designed **Amazon-style Navbar**
-- 📦 Clean product layout & sections
+- 🧭 Fully designed **Amazon-style navbar**
+- 📦 Clean layout & sections
 - 🎯 Focused on real-world UI practice
 
-### 🌟 Celebrity Showcase Page
-- 🧑‍🎤 **Top 05 Celebrities names displayed using pure HTML**
-- 📄 Clean structure & semantic HTML usage
-- 🎨 Simple yet professional layout
+### 🌟 Celebrity Names Page
+- 🧑‍🎤 **Top 05 celebrities listed using pure HTML**
+- 📄 Clean & semantic HTML structure
+- 🎨 Simple and readable design
 
 ### 🕹 Rock Paper Scissors Game
 - ⚙️ JavaScript-based interactive game
 - 🎮 User vs Computer logic
 - 🧠 Strengthened core JS concepts
 
-### 🚧 More Cool Projects Coming Soon…
-- 🚀 Working on **advanced MERN stack projects**
-- 📌 Will keep posting **cool & real-world projects**
-- 👀 Stay tuned for updates!
+### 🚧 More Cool Projects Coming Soon
+- 🚀 Currently working on **new and better projects**
+- 📌 Will keep updating GitHub with **quality work**
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizandev65&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizandev65&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizandev65&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizandev65&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🧩 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Md-Faizan-Mustafa?theme=dark&font=Fira%20Code&ext=contest"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizandev65&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizandev65&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -93,17 +74,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-Md%20Faizan%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/u/Md-Faizan-Mustafa/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/faizandev65/faizandev65/output/github-contribution-grid-snake.svg)
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
 </p>
