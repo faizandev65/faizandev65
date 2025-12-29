@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 - ✅ Completed **HTML, CSS & JavaScript**
 - 🚀 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
-- ☕ Strong foundation in **Java (Core + Advanced)**
+- ☕ Strong foundation in **Java (Core)**
 - 📘 Practicing **DSA (Data Structures & Algorithms)**
 - 🌐 Passionate about **Web Development & Open Source**
 - 🎯 Goal: Become a **Professional Full-Stack Developer**
