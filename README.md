@@ -51,8 +51,14 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://github.com/faizandev65">
+  <a href="https://github.com/faizandev65" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-faizandev65-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-faizan-mustafa-546bb433a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Md%20Faizan%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Md-Faizan-Mustafa/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Md%20Faizan%20Mustafa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
