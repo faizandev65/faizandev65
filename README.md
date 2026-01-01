@@ -51,6 +51,13 @@
 - 🎮 User vs Computer logic
 - 🧠 Strengthened core JS concepts
 
+- 💱 Currency Converter (HTML + CSS + JavaScript) ✨ NEW
+🌍 Real-time currency conversion between countries
+🔄 Dynamic exchange rate calculation
+📊 Clean & modern UI with responsive design
+⚡ API-based data handling (practical JS usage)
+🎯 Built to understand real-world web app logic
+
 ### 🚧 More Cool Projects Coming Soon
 - 🚀 Currently working on **new and better projects**
 - 📌 Will keep updating GitHub with **quality work**
