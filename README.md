@@ -36,13 +36,13 @@
 ## 🚀 Featured Projects
 
 ### 🛒 Amazon Clone (HTML + CSS)
-- 🔥 **Same-to-same Amazon UI clone**
-- 🧭 Fully designed **Amazon-style navbar**
+- 🔥 Same-to-same Amazon UI clone
+- 🧭 Fully designed Amazon-style navbar
 - 📦 Clean layout & sections
 - 🎯 Focused on real-world UI practice
 
 ### 🌟 Celebrity Names Page
-- 🧑‍🎤 **Top 05 celebrities listed using pure HTML**
+- 🧑‍🎤 Top 05 celebrities listed using pure HTML
 - 📄 Clean & semantic HTML structure
 - 🎨 Simple and readable design
 
@@ -51,16 +51,17 @@
 - 🎮 User vs Computer logic
 - 🧠 Strengthened core JS concepts
 
-- 💱 Currency Converter (HTML + CSS + JavaScript) ✨ NEW
-🌍 Real-time currency conversion between countries
-🔄 Dynamic exchange rate calculation
-📊 Clean & modern UI with responsive design
-⚡ API-based data handling (practical JS usage)
-🎯 Built to understand real-world web app logic
+### 💱 Currency Converter (HTML + CSS + JavaScript)
+- 🌍 Real-time currency conversion between countries
+- 🔄 Dynamic exchange rate calculation
+- 📊 Clean & modern responsive UI
+- ⚡ API-based data handling (practical JavaScript usage)
+- 🎯 Built to understand real-world web application logic
 
 ### 🚧 More Cool Projects Coming Soon
-- 🚀 Currently working on **new and better projects**
-- 📌 Will keep updating GitHub with **quality work**
+- 🚀 Currently working on new and better projects
+- 📌 Will keep updating GitHub with quality work
+
 
 ---
 
