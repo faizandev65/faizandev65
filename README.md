@@ -79,11 +79,17 @@
     <img src="https://img.shields.io/badge/GitHub-faizandev65-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/md-faizan-mustafa-546bb433a">
-    <img src="https://img.shields.io/badge/LinkedIn-Md%20Faizan%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/Md-Faizan-Mustafa/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Md%20Faizan%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Md-Faizan-Mustafa/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://app.netlify.com/teams/faizandev65/projects">
+  <img src="https://img.shields.io/badge/Netlify-Live%20Projects-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
 </p>
 
 ---
