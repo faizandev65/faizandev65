@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Java & DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student;HTML+CSS+JavaScript+Completed;Learning+MERN+Stack;Java+%26+DSA+Enthusiast;Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student; CurrentlyLearning+MERN+Stack;Java+%26+DSA+Enthusiast;Building+Cool+Projects" />
 </p>
 
 <p align="center">
