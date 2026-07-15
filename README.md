@@ -45,7 +45,6 @@ Code | Coffee | Late-night Debugging | Continuous Learning
 - Mobile-friendly design
 - Showcases projects, skills and contact information
 - Deployed on Netlify with GitHub Auto Deploy
-- Live Demo: https://YOUR-NETLIFY-LINK.netlify.app
 
 ### Currency Converter
 - Real-time currency conversion
